@@ -1,0 +1,6 @@
+leve/out/
+*.keystore
+*.apk
+*.idsig
+debloat/antes-*.txt
+debloat/removidos-*.txt

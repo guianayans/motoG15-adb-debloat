@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A leaf on the 108dp adaptive canvas, inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF7EE0A8"
+        android:pathData="M74,34C52,34 36,46 36,62c0,4 1,8 3,11c3,-9 10,-18 21,-24c-9,7 -15,15 -18,26c3,2 7,3 11,3c16,0 21,-18 21,-44z" />
+</vector>

@@ -1,0 +1,60 @@
+# Pacotes removidos por padrão no moto g15 (Android 15, VVTA35.51-124).
+# Tudo aqui é anúncio, rastreamento, teste de fábrica ou app da Motorola sem uso no dia a dia.
+# Um pacote por linha; o que vem depois de "#" é comentário. Classificação do UAD-ng entre colchetes.
+
+# Anúncios e instaladores de propaganda
+com.glance.lockscreenM                  # Glance: anúncios e notícias na tela de bloqueio (fora do UAD)
+com.inmobi.weather                      # Clima da InMobi, empresa de anúncios (fora do UAD)
+com.dti.motorola                        # Mobile Services Manager: instala apps de parceiros [Recomendado]
+com.aura.oobe.motorola                  # MotoApps (Aura): sugere e instala apps na configuração [Recomendado]
+com.motorola.brapps                     # Motorola App Box [Recomendado]
+com.motorola.paks                       # Q Paks: pacote de apps de terceiros [Recomendado; protegido no G15]
+com.motorola.paks.notification          # Notificações do Q Paks [Recomendado; protegido no G15]
+android.autoinstalls.config.motorola.layout  # Instala apps da Motorola no primeiro boot [Recomendado]
+
+# Facebook embutido
+com.facebook.appmanager                 # Atualiza apps do Facebook em segundo plano [Recomendado]
+com.facebook.services                   # Serviços do Facebook [Recomendado]
+com.facebook.system                     # Instalador do Facebook [Recomendado]
+
+# Anúncios e rastreamento do Google
+com.google.android.adservices.api       # Privacy Sandbox / anúncios [Recomendado]
+com.google.mainline.adservices          # Privacy Sandbox / anúncios [Recomendado]
+com.google.android.federatedcompute     # Aprendizado sobre o uso [Recomendado]
+com.google.android.ondevicepersonalization.services  # Personalização de anúncios [Recomendado]
+com.google.android.gms.location.history # Histórico de localização (vazio) [Recomendado]
+com.google.android.feedback             # Envio de relatórios de falha [Recomendado]
+
+# Motorola: ajuda, demonstração, gestão corporativa
+com.motorola.ccc.notification           # Notificações promocionais da Motorola [Recomendado]
+com.motorola.motocare                   # Moto Care [Recomendado]
+com.motorola.genie                      # Ajuda do dispositivo [Recomendado]
+com.motorola.help                       # Moto Feedback [Recomendado]
+com.motorola.demo                       # Modo demonstração de loja [Recomendado]
+com.motorola.enterprise.adapter.service # ThinkShield [Recomendado]
+com.motorola.enterprise.service         # ThinkShield [Recomendado]
+com.motorola.securityhub                # Moto Secure [Recomendado]
+com.motorola.gamemode                   # Moto Gametime [Recomendado]
+com.lenovo.lsf.user                     # Lenovo ID [Recomendado]
+
+# Testes de fábrica e diagnóstico
+com.fingerprints.sensortesttool         # Teste do leitor de digital [Recomendado]
+com.goodix.gftest                       # Teste do leitor de digital [Recomendado]
+com.motorola.motocit                    # CQATest, menu de testes [Recomendado]
+com.android.traceur                     # Rastreamento do sistema [Recomendado]
+com.mediatek.sensorhub.ui               # Teste de sensores MediaTek [Recomendado]
+com.mediatek.atmwifimeta                # Log de Wi-Fi MediaTek [Recomendado]
+com.motorola.bach.modemstats            # Estatísticas do modem [Recomendado]
+com.android.egg                         # Easter egg do Android [Recomendado]
+
+# Só servem na configuração inicial
+com.google.android.apps.restore         # Restaurar backup (roda no boot) [Recomendado]
+com.google.android.onetimeinitializer   # Primeira configuração [Recomendado]
+
+# Outros
+com.google.ambient.streaming            # Apps do celular no Chromebook [Recomendado]
+com.android.providers.partnerbookmarks  # Favoritos de parceiros no Chrome [Recomendado]
+com.google.android.videos               # Google TV [Recomendado]
+com.google.android.apps.subscriptions.red  # Google One [Recomendado]
+com.google.android.apps.googleassistant # Atalho do Assistente [Recomendado]
+com.google.android.gms.supervision      # Family Link [Recomendado]

@@ -1,0 +1,7 @@
+# Opcionais: apps que algumas pessoas usam. Só saem com ./debloat.sh --opcionais.
+# Apague as linhas do que você quer manter antes de rodar.
+
+com.google.android.projection.gearhead  # Android Auto [Avançado]
+com.google.android.apps.wellbeing       # Bem-estar digital [Avançado]
+com.google.android.googlequicksearchbox # App Google: barra de pesquisa, Discover, "Ok Google" [Avançado]
+com.android.chrome                      # Chrome; web apps instalados por ele param de abrir [Avançado]
